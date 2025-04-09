@@ -9,6 +9,36 @@ const links = {
 };
 
 const itemData = [{
+  id: 'wiselink',
+  name: 'WISELINK',
+  link: 'https://wiselink.tw',
+  date: 'Jun 2024 – Present',
+  text:
+    <>
+      <p>
+        At Wiselink, I focused on modernizing and enhancing the user experience of our applications.
+      </p>
+      <p>
+      </p>
+      <ul style={{ paddingInlineStart: '2rem' }}>
+        <li>
+          <strong>Refactoring Legacy Code:</strong> Led the overhaul of existing codebases by re-evaluating technical decisions and integrating modern technologies such as <strong>TypeScript</strong> and <strong>Tailwind CSS</strong>. This initiative improved maintainability and scalability.
+        </li>
+        <li>
+          <strong>AI-Assisted Development:</strong> Utilized AI-powered tools like <strong>Cursor, Copilot, Claude, and ChatGPT</strong> to boost development efficiency, enhance problem-solving capabilities, and improve code quality.
+        </li>
+        <li>
+          <strong>Feature Development:</strong> Collaborated with <strong>cross-functional and international teams</strong> to design, develop, and deploy new features, ensuring alignment with both business objectives and user needs.
+        </li>
+        <li>
+          <strong>User Experience Optimization:</strong> Balanced <strong>technical feasibility</strong> with <strong>usability</strong> to enhance the overall user experience, proactively contributing ideas for feature enhancements and continuous improvements.
+        </li>
+      </ul>
+      <p>
+        This experience has deepened my expertise in <strong>modern web development practices</strong> and strengthened my ability to work effectively in diverse team environments.
+      </p>
+    </>
+}, {
   id: 'liu',
   name: 'Linköping University',
   link: 'https://liu.se/en',
@@ -36,7 +66,6 @@ const itemData = [{
         Throughout my last year of college, I pursued a <strong>frontend/blockchain engineering</strong> internship at MaiCoin, engaging in daily stand-ups, weekly one-on-one meetings, and solving problems through collaborative efforts.
       </p>
       <p>
-        - - -
       </p>
       <ul style={{ paddingInlineStart: '2rem' }}>
         <li>
@@ -105,7 +134,11 @@ const About = () => {
         <div className="title-group">
           <h1 className={sx.title}>- My journey -</h1>
           <p className={sx.subTitle}>
-            I'm a recent graduate and passionate frontend engineer with internship experience at MaiCoin. I've successfully contributed to projects, honing both development and project management skills, and I'm looking for new challenges to grow further in technology and coding!
+            {/* I'm a recent graduate and passionate frontend engineer with internship experience at MaiCoin. I've successfully contributed to projects, honing both development and project management skills, and I'm looking for new challenges to grow further in technology and coding! */}
+            I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+            <br />
+            <br />
+            Always seeking new challenges and opportunities to grow. 👨‍💻
           </p>
         </div>
         <div className="item-wrapper">
