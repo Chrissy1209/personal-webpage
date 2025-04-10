@@ -22,16 +22,16 @@ const itemData = [{
       </p>
       <ul style={{ paddingInlineStart: '2rem' }}>
         <li>
-          <strong>Refactoring Legacy Code:</strong> Led the overhaul of existing codebases by re-evaluating technical decisions and integrating modern technologies such as <strong>TypeScript</strong> and <strong>Tailwind CSS</strong>. This initiative improved maintainability and scalability.
+          <strong>Refactored Legacy Code:</strong> Led the overhaul of existing codebases by re-evaluating <strong>technical decisions</strong> and integrating modern technologies such as TypeScript and Tailwind CSS. This initiative improved maintainability and scalability.
         </li>
         <li>
-          <strong>AI-Assisted Development:</strong> Utilized AI-powered tools like <strong>Cursor, Copilot, Claude, and ChatGPT</strong> to boost development efficiency, enhance problem-solving capabilities, and improve code quality.
+          <strong>AI-Assisted Development:</strong> Utilized AI-powered tools like Cursor, Copilot, Claude, and ChatGPT to boost development efficiency, enhance problem-solving capabilities, and improve code quality.
         </li>
         <li>
           <strong>Feature Development:</strong> Collaborated with <strong>cross-functional and international teams</strong> to design, develop, and deploy new features, ensuring alignment with both business objectives and user needs.
         </li>
         <li>
-          <strong>User Experience Optimization:</strong> Balanced <strong>technical feasibility</strong> with <strong>usability</strong> to enhance the overall user experience, proactively contributing ideas for feature enhancements and continuous improvements.
+          <strong>User Experience Optimization:</strong> Balanced technical feasibility with usability to enhance the overall user experience, proactively contributing ideas for feature enhancements and continuous improvements.
         </li>
       </ul>
       <p>
