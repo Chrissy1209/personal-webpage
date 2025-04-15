@@ -135,7 +135,7 @@ const About = () => {
           <h1 className={sx.title}>- My journey -</h1>
           <p className={sx.subTitle}>
             {/* I'm a recent graduate and passionate frontend engineer with internship experience at MaiCoin. I've successfully contributed to projects, honing both development and project management skills, and I'm looking for new challenges to grow further in technology and coding! */}
-            I'm a frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
+            I'm a Frontend Engineer with solid experience in modern web technologies including TypeScript, Next.js, and Tailwind. Skilled in refactoring legacy code, enhancing code quality through rigorous reviews, and leveraging AI-assisted tools to boost development efficiency. Passionate about user-centric design, cross-functional collaboration, and continuous learning.
             <br />
             <br />
             Always seeking new challenges and opportunities to grow. 👨‍💻
